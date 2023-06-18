@@ -79,7 +79,7 @@ public class App
         String message = "My message";
         String formatted = String.format(" [%d] coefficient is %.2f message: %s %nNew line\n",num, coefficient, message);
         System.out.print(formatted + "\n" );
-        System.out.println("Some line");
+        System.out.println("Some liine");
 
         ClassExample  example = new ClassExample();
         System.out.println(example.getString());

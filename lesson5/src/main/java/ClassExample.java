@@ -1,6 +1,6 @@
 public class ClassExample
 {
-    String stringExample = "Привіт Koza";
+    String stringExample = "Привіт Kozaa";
 
     String  getString(){
         /*Sveta koza*/
